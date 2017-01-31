@@ -1,0 +1,22 @@
+--temp-output:C:\Users\rybrande\Documents\Visual Studio 2015\Projects\CultureInfoPerf\src\CultureInfoPerf\obj\Debug\net451\
+--out:C:\Users\rybrande\Documents\Visual Studio 2015\Projects\CultureInfoPerf\src\CultureInfoPerf\bin\Debug\net451\CultureInfoPerf.exe
+--define:DEBUG
+--define:TRACE
+--define:NET451
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:CultureInfoPerf
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5.1
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Microsoft.CSharp.dll
+C:\Users\rybrande\Documents\Visual Studio 2015\Projects\CultureInfoPerf\src\CultureInfoPerf\Program.cs
+C:\Users\rybrande\Documents\Visual Studio 2015\Projects\CultureInfoPerf\src\CultureInfoPerf\Properties\AssemblyInfo.cs
